@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case 2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>95b7b3e5-41b5-4865-8650-e9cd6c098f81</testCaseGuid>
+   <variable>
+      <defaultValue>'toan'</defaultValue>
+      <description></description>
+      <id>3d0141f9-579c-47d6-9852-7fd582d29ee8</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'hongbik'</defaultValue>
+      <description></description>
+      <id>2d0e4f27-da27-4b9c-9724-ed929dec8f2a</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
